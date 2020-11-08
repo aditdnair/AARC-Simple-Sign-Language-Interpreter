@@ -93,7 +93,7 @@ This project was built by
 1. Adit Nair (@aditdnair)
 2. Aditya Nair (@adityabnair)
 3. Christopher Paralkar (@CPwalker1)
-4. Rishabh Nanawati (me)
+4. Rishabh Nanawati (@nrishabh)
 
  as a mini project, part of our course Image Processing. We included a user-friendly GUI that allowed multiple registered users private access, fed input as the user's webcam video stream and saved the predicted characters into a log file.
 
